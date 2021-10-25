@@ -23,7 +23,7 @@ streamlit run pychain.py
 
 ---
 ## Example
-![Example](Images\screenshot.png)
+![Example](Images/screenshot.png)
 
 ---
 ## Contributors
